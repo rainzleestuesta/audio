@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Audio Link Example</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  
+  <a href="Theme%20of%20the%20Week%20%2321%20-%20Guardians%20of%20the%20Galaxy%20Main%20Theme.mp3">Click here to listen to the audio</a>
+
+  <p>More content goes here...</p>
+</body>
+</html>
